@@ -83,4 +83,50 @@ The project uses a synthetic technology retail dataset containing:
 - Previous Year Sales
 - Year-over-Year Growth %
 - Previous Month Sales
-- Month-over-Month Growth
+- Month-over-Month Growth %
+- YTD Sales
+- QTD Sales
+- MTD Sales
+- Rolling 3, 6 and 12-Month Sales
+- Same Period Last Year Sales
+
+### Phase 4 — Business Performance Analysis
+- Sales by Category
+- Product Performance
+- Store Performance
+- Customer Analysis
+- Employee Performance
+- Profitability Analysis
+- Target Achievement Analysis
+
+### Phase 5 — Dashboard Development
+Interactive dashboards and business insights will be developed using Power BI.
+
+## 6. Repository Structure
+
+```text
+Power-BI-Senior-Analyst-Project/
+│
+├── data/
+├── power-bi/
+├── dax/
+├── power-query/
+├── screenshots/
+├── documentation/
+├── .gitignore
+└── README.md
+```
+
+## 7. Project Status
+
+- [x] Data preparation and quality checks
+- [x] Data modelling
+- [x] Basic DAX measures
+- [x] Time intelligence measures
+- [ ] Business performance analysis
+- [ ] Dashboard development
+- [ ] Final business insights
+
+## 8. Author
+
+**Power BI Senior Data Analyst Portfolio Project**
