@@ -1,0 +1,19 @@
+# VS Code
+.vscode/
+*.code-workspace
+
+# Temporary files
+*.tmp
+*.log
+
+# Power BI temporary and backup files
+*.bak
+*.pbix.autorecover
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Windows files
+Thumbs.db
+Desktop.ini
