@@ -114,3 +114,23 @@ This project demonstrates practical data analyst skills through an end-to-end bu
 **Business Purpose:** Identify quarterly sales patterns, compare yearly performance and understand seasonal business trends.
 
 **Status:** Completed
+
+### Task 5 — Category Sales by Year
+
+**Objective:** Compare category-level sales performance across different years.
+
+**Power BI Visual:** Matrix
+
+**Configuration:**
+- Rows: `Categories[Category]`
+- Columns: `DateTable[Year]`
+- Values: `[Total Sales]`
+
+**Period:** 2022–2025
+
+**Expected Grand Total:** 15,071,900.07
+
+**Business Purpose:** Identify which categories are growing or declining over time and compare their yearly revenue contributions.
+
+**Status:** Completed
+
