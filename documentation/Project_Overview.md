@@ -80,3 +80,19 @@ This project demonstrates practical data analyst skills through an end-to-end bu
 **Business Purpose:** Identify high-performing and low-performing stores and compare their contribution to overall revenue.
 
 **Status:** Completed
+
+### Task 3 — Monthly Sales Trend
+
+**Objective:** Analyse monthly sales trends and identify changes in sales performance over time.
+
+**Power BI Visual:** Line Chart
+
+**Configuration:**
+- X-axis: `DateTable[Year-Month]`
+- Y-axis: `[Total Sales]`
+
+**Period:** January 2022 – December 2025
+
+**Business Purpose:** Understand monthly sales patterns, identify trends and support business planning.
+
+**Status:** Completed
