@@ -64,3 +64,19 @@ This project demonstrates practical data analyst skills through an end-to-end bu
 **Business Purpose:** Identify the sales contribution of each product category and understand category-level revenue performance.
 
 **Status:** Completed
+
+### Task 2 — Sales by Store
+
+**Objective:** Compare sales performance across different stores.
+
+**Power BI Visual:** Matrix
+
+**Configuration:**
+- Rows: `Stores[StoreName]`
+- Values: `[Total Sales]`
+
+**Expected Grand Total:** 15,071,900.07
+
+**Business Purpose:** Identify high-performing and low-performing stores and compare their contribution to overall revenue.
+
+**Status:** Completed
