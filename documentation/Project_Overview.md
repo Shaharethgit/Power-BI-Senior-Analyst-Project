@@ -96,3 +96,21 @@ This project demonstrates practical data analyst skills through an end-to-end bu
 **Business Purpose:** Understand monthly sales patterns, identify trends and support business planning.
 
 **Status:** Completed
+
+### Task 4 — Sales by Year and Quarter
+
+**Objective:** Compare sales performance across years and quarters.
+
+**Power BI Visual:** Matrix
+
+**Configuration:**
+- Rows: `DateTable[Year]`, `DateTable[Quarter]`
+- Values: `[Total Sales]`
+
+**Period:** 2022–2025
+
+**Expected Grand Total:** 15,071,900.07
+
+**Business Purpose:** Identify quarterly sales patterns, compare yearly performance and understand seasonal business trends.
+
+**Status:** Completed
