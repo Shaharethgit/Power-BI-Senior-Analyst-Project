@@ -46,3 +46,21 @@ Power BI visuals will be used to explore business performance and communicate in
 ## Project Scope
 
 This project demonstrates practical data analyst skills through an end-to-end business intelligence workflow.
+
+## Business Performance Analysis
+
+### Task 1 — Sales by Category
+
+**Objective:** Analyse total sales across different product categories.
+
+**Power BI Visual:** Matrix
+
+**Configuration:**
+- Rows: `Categories[Category]`
+- Values: `[Total Sales]`
+
+**Expected Grand Total:** 15,071,900.07
+
+**Business Purpose:** Identify the sales contribution of each product category and understand category-level revenue performance.
+
+**Status:** Completed
